@@ -1,0 +1,371 @@
+*
+{
+    padding: 0;
+    margin : 0;
+box-sizing: border-box;
+}
+
+
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 1px;
+    background-color: white;
+    height: 50px;
+    width: 100%;
+position: fixed;
+   
+}
+.name
+{
+    padding-top: 10px;
+    margin-left: 25px;
+    display: flex;
+
+  
+}
+
+a:hover
+{
+color: blue;
+
+}
+button:hover
+{
+    background-color:  #ffffff;
+   color:blue;
+
+}
+
+#women{
+    height: 30px;
+}
+
+.head
+{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+margin-right: 40px;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+  
+font-weight: bold;
+}
+button
+{
+    background-color:blue;
+    border: transparent;
+    color: white;
+    width: 100px;
+   font-weight: bold;
+    padding: 7px 7px;
+    border-radius: 5px;
+}
+
+.container
+{
+    max-width: 1180px;
+    margin-inline: auto;
+}
+
+
+
+
+.features
+{
+    /* background-color:#fcfdff; */
+    /* background-color:#f1f6ff; */
+    background-color: aliceblue;
+}
+.sec1 p{
+    text-align: justify;
+}
+
+.c
+{
+    height: 100vh;
+}
+
+.flex
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sec1 h2
+{ 
+    
+ font-size: 3rem;
+}
+.sec1 p
+{
+    margin-top: 30px;
+    line-height: 30px;
+  
+    font-size: 1.1rem;
+}
+
+.im2 img{
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 90px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+.sec1 button
+{
+    margin-top: 30px;
+}
+
+.logo-feature img
+{
+    width: 120px;
+    margin-left: 30px;
+    
+}
+.logo-feature
+{
+    margin-top: 50px;
+}
+
+
+  .star
+  {
+    color: orange;
+  }
+  .sec2
+  {
+    margin-top: 80px;
+    margin-bottom: 50px;
+  }
+  .r1
+  
+  {
+    line-height: 25px;
+  text-align: center;
+  }
+  
+.r2 
+{
+
+max-width: 450px;
+ line-height: 34px;
+}
+.p
+{
+    margin-top: 10px;
+    color: rgb(0, 128, 94);
+
+}
+.r2 p
+{
+    margin-top: 10px;
+    text-align: left;
+
+}
+.sec3
+{
+    line-height: 35px;
+ 
+}
+.services h2
+{
+    padding-top: 50px;
+    text-align: center;
+}
+.im3 img
+{
+    width: 320px;
+    margin-left: 50px;
+    border-radius: 5px;
+    /* margin-bottom: 25px; */
+}
+.f1 ul
+{
+    margin-top: 20px;
+    text-align: start;
+}
+.f1 li::marker
+{
+    color: rgb(0, 128, 94);
+}
+.start
+{
+    margin-top: 25px;
+padding-top: 50px;
+    /* text-align: center; */
+}
+.start p
+{
+    margin-top: 25px;
+}
+
+.sec4 img
+{
+margin-top: 45px;
+    width: 150px;
+    border-radius: 10px;
+}
+.founder
+{
+    line-height: 25px;
+    padding-bottom: 25px;
+}
+
+.founder h4
+{
+    color: rgb(0, 128, 94);
+}
+.client
+{
+    margin-top: 100px;
+   
+}
+.client p
+{
+    margin-top: 15px;
+}
+.star1
+{
+    /* color: rgb(0, 128, 94); */
+    color: orange;
+    font-size: larger;
+}
+.one .test2{
+    margin-left: 50px;
+}
+.one 
+{
+    line-height: 30px;
+}
+
+.im5
+{
+    width: 30px;
+    border-radius: 50%;
+    margin-top:15px;
+}
+
+.t
+{
+    display: flex;
+    align-items:center;
+}
+.t h4
+{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.me{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 25px;
+    flex-direction: column;
+    align-items: start;
+}
+.me p
+{
+    margin-top: 15px;
+}
+.sub
+
+{  margin-top: 50px;
+    padding-top: 50px;
+    line-height: 40px;
+    text-align: center;
+}
+.sub input
+{
+    width: 40%;
+    height: 30px;
+    border: 2px solid rgb(184, 184, 184);
+    outline: none;
+}
+.sub .btn
+{
+    padding-top: 30px;
+  padding-bottom: 30px;
+    
+}
+
+.card img 
+{
+  width: 355px;
+}
+
+.feature-card
+{
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+
+}
+.card
+{
+   
+    margin-top: 150px;
+    margin-left: 35px;
+    line-height: 25px;
+}
+
+.info h1{
+    margin-top: 50px;
+}
+.info p
+{
+    line-height: 30px;
+}
+
+.info2
+{
+padding: 35px 35px 35px 35px;
+background-color:#f1f6ff;
+margin-top: 134px;
+margin-right: 70px;
+
+}
+.info2 div
+{
+    margin-top: 25px; 
+
+}
+.contact ::placeholder
+{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.contact input 
+{
+    height: 25px;
+    width: 100%;
+}
+.info2 button
+{
+    width: 100%;
+   
+}
+textarea{
+    padding: 10px 10px 10px 10px;
+}
+.donate 
+{
+padding-top: 240PX;
+text-align: center;
+line-height: 35px;
+height: 100vh;
+    background-color: aliceblue;
+}
+.f
+
+{
+    padding-top: 20px;
+}
+
