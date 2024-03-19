@@ -30,11 +30,5 @@ This website provides a user-friendly interface for processing payments securely
    ```bash
    git clone https://github.com/manasi-gade07/Payment_Gateway.git
 
-## 🎥 Website Demo Video
 
-You can watch a demo of our payment gateway website in action:
-
-## 🎥 Website Demo Video
-
-<iframe width="560" height="315" src="Maitree Foundation - Google Chrome 2024-03-19 17-59-10.mp4" frameborder="0" allowfullscreen></iframe>
 
